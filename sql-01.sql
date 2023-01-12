@@ -1,1 +1,0 @@
-USE curso_db;
